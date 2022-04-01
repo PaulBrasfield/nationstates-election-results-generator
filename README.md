@@ -1,4 +1,4 @@
-# eBay Droppshipping Price Calculator
+# NationStates Election Results Generator
 
 This program was designed for the online nation simulation game NationStates. This program takes in the number of states/constituencies along with the
 weights of each political party defined in a tuple. We then select a party from the tuple at random, based on the specified weight, and do so for as many 
